@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "Day10",
       "projectName": "Day10",
-      "projectPath": "C:\\Users\\angel sherin\\Documents\\UiPath\\Day10\\.local",
+      "projectPath": "C:\\Users\\angel sherin\\Documents\\RPA Challenge\\RPA-Challenge\\Day10\\.local",
       "packagesPath": "C:\\Users\\angel sherin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel sherin\\Documents\\UiPath\\Day10\\.local"
+      "outputPath": "C:\\Users\\angel sherin\\Documents\\RPA Challenge\\RPA-Challenge\\Day10\\.local"
     },
     "frameworks": {
       "net461": {
